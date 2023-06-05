@@ -1,0 +1,32 @@
+body {background:white;text-color:white；}
+p1{ 
+  background-color: pink;
+  padding-top:30px; 
+  padding-left:50px; 
+  padding-right:50px; 
+  padding-bottom:30px;
+  margin-top:100px; 
+  margin-left:600px; 
+  margin-right:100px;
+  margin-bottom:100px;   
+}
+.video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-1;  
+}
+h1{
+  color: #ff5599;
+}
+h2{font-size:50pt ;
+  color: #775599;
+}
+h4{
+  color: white;
+}
+p{
+  color: white;
+}
